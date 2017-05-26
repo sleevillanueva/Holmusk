@@ -240,7 +240,7 @@ y = df["amount_y"]
 
 score(rf,"Random Forest",X,y)
 
-#cross val score higher than initial score with less features - less processing time
+
 
 
 
